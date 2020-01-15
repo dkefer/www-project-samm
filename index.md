@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP samm
+title: OWASP SAMM
 tags: samm
 level: 4
 type: documentation
